@@ -10,6 +10,7 @@ A project created to measure displacements with a camera of a vehicle chassis us
 * The code needs Python 3.x.x to run
 * The project was built in Ubuntu Linux 18.04, but other OS may work
 * OpenCV is needed for the scripts to launch
+* Numpy is required for the computations
 
 ### Executing program
 
