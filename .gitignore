@@ -78,3 +78,7 @@ docs/_build/
 # PyBuilder
 .pybuilder/
 target/
+
+
+# zip folder with assets
+*.zip
